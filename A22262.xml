@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singular archbishops, bishops, archdeacons, deanes and their officials ... greeting : whereas we are credibly giuen to vnderstand aswell by the humble supplication and petition of one religious Philotheos, a Grecian, and procurator generall of the Conuent of the Holy Crosse of Golgotha, in Ierusalem ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22262</idno>
+            <idno type="STC">STC 8673.5</idno>
+            <idno type="STC">ESTC S3817</idno>
+            <idno type="EEBO-CITATION">33151032</idno>
+            <idno type="OCLC">ocm 33151032</idno>
+            <idno type="VID">28876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:134)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singular archbishops, bishops, archdeacons, deanes and their officials ... greeting : whereas we are credibly giuen to vnderstand aswell by the humble supplication and petition of one religious Philotheos, a Grecian, and procurator generall of the Conuent of the Holy Crosse of Golgotha, in Ierusalem ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>W. Stansby,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title and other title information from first 7 lines of text.</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Line 1 of text end "singular".</note>
+                  <note>"Witnesse Our Selfe at Westminster the thiteenth day of October, in the nineteenth yeare of Our raigne of England, France and Ireland, and of Scotland the fiue and fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Convent of the Holy Cross of Golgotha (Jerusalem)</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28876:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>IAMES by the grace of GOD, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſingular Archbiſhops, Biſhops, Archdeacons, Deanes and their Officials, Parſons, Vicars, Curates, and to all ſpirituall perſons. And alſo to all Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Conſtables, Church-wardens, and Headboroughes. And to all Officers of Cities, Boroughes, and Townes Corporate. And to all other our Officers, Miniſters, and Subiects whatſoeuer they bee aſwell within Liberties as without, to whom theſe Preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>Whereas We are credibly giuen to vnderſtand aſwell by the humble Supplication and Petition of one Religious <hi>Philotheos</hi> a Gre<g ref="char:EOLhyphen"/>cian, and Procurator generall of the Couent of the holy Croſſe of Golgotha in Ieruſalem, ſituate in the very ſame place where our Sa<g ref="char:EOLhyphen"/>uiour dyed vpon the Croſſe for our Redemption, as alſo by other ſufficient teſtimonie. That in the foreſaid moſt ſacred and holy Place, that euer renowned and famous Saint HELEN, out of her extraordinary zeale and deuotion vnto our bleſſed Sauiour, built a moſt rich and ſumptuous Monaſterie and Temple, the which (not without great iniurie and diſhonour to Chriſtian Religion) the Turkes would haue made a Meſquit of <hi>Mahomet,</hi> for which cauſe the Religious of the foreſaid Monaſterie were forced to promiſe the pay<g ref="char:EOLhyphen"/>ment of three thouſand crownes yeerely to the great Turke, that onely they might haue libertie to celebrate diuine Seruice in that ſacred place, where the precious bloud of Chriſt was ſhed, the Turkes hauing depriued them of the Rents thereunto appertayning, and which heretofore they did poſſeſſe, wherfore being perſwaded that al Chriſtian Kings and Princes which beleeue that CHRIST IESVS dyed in the aforeſaid place, to be bound in charitie to ſuccour with their gifts and almes the foreſaid Religious men there re<g ref="char:EOLhyphen"/>ſiding, eſpecially in regard they are ingaged to pay ſixe thouſand crownes to free from death thirteene of the ſaid Religious men, which were condemned to death vniuſtly, and in the defence of the holy Faith of IESVS CHRIST, by thoſe barbarous Infidels, as is manifeſt by euident teſtimonie, who not hauing wherewith to pay downe the ſaid ſixe thouſand crownes, were conſtrayned to vndertake the payment of fifteene in the hundred yeerely for intereſt, vntill the principall money bee paid, to which end the King of Spaine hath already ſent his Royall almes, Therefore the ſaid Religious <hi>Philotheos</hi> hath moſt humbly beſought Vs, that of Our Prince<g ref="char:EOLhyphen"/>ly fauour, and bounty in a matter of ſo great a conſequence, We would be pleaſed for the better maintenance of the ſaid Temple, and preſeruing the ſame from the brabarous Infidels, and for the redemption of the ſaid thirteene Religious men, to afford them ſuch re<g ref="char:EOLhyphen"/>liefe as to others hath beene granted by way of a Collection of the charitie of well diſpoſed perſons aſwell within Our Citie of Lon<g ref="char:EOLhyphen"/>don as in certayne Counties in this Our Realme, vnto whoſe requeſt (Wee being moued with a Princely and pious commiſeration to<g ref="char:EOLhyphen"/>wards the poore Chriſtians in that place reſiding, and for the preſeruation of thoſe ancient monuments which yet remayne in the place of our Redemption, from the hands of Infidels, haue thought fit to condeſcend vnto as a matter well beſeeming Vs, being determined to contribute Our Princely almes to the ſame end and purpoſe Our ſelfe: Not doubting but that all good Chriſtians vpon the due con<g ref="char:EOLhyphen"/>ſideration of the premiſſes, will be ready and willing, and the rather for Our commendation hereof, and Our owne example herein, to extend their liberall contributions towards the furtherance of ſo good a worke.</p>
+            <p>Know yee therefore, That of Our eſpeciall Grace and Princely compaſſion, Wee haue giuen and granted, and by theſe Our Let<g ref="char:EOLhyphen"/>ters Patents doe giue and grant vnto the ſaid Religious <hi>Philotheos,</hi> on the behalfe of the foreſaid Couent and to his Deputie and De<g ref="char:EOLhyphen"/>puties the Bearer or Bearers hereof, full power, licence and authoritic, to aske, gather, receiue and take the almes and charitable beneuolence of all Our louing Subiects whatſoeuer, inhabiting within our Counties of Wilts, Leceſter and Buckingham, with our Cities of Salisburic, and in all other Cities, Townes Corporate, Priuiledged places, Pariſhes, Villages and in all other places whatſoeuer, within our ſaid Counties and not elſewhere, for and towards the payments aboue mentioned, and the reliefe and mai<g ref="char:EOLhyphen"/>tenance of the foreſaid place, and the poore Chriſtians therein reſiding.</p>
+            <p>Wherefore, Wee will and command you and euery of you, that at ſuch time and times as the ſaid Religious <hi>Philotheos</hi> or his De<g ref="char:EOLhyphen"/>putie or Deputies, the Bearer or Bearers hereof, ſhall come and repaire vnto any your Churches, Chappels, or other places, to aske and receiue gratuities and charitable beneuolence of Our ſaid Subiects, quietly to permit and ſuffer them ſo to doe, without any manner your lets or contradictions. And you the ſaid Parſons, Vicars, and Curates, for the better ſtirring vp of a charitable deliberately to publiſh and declare the Tenor of theſe Our Letters Patents, vnto Our ſaid Subiects in your Pariſh Church, in your Pulpits vpon the next Sabbath day after your receipt thereof, and that no other Collection bee made on the ſame day for any o<g ref="char:EOLhyphen"/>ther perſon, exhorting and perſwading them to extend their liberall contributions in ſo pious and Religious a worke. And you the Church-wardens of euery Pariſh where ſuch Collections are to be made as aforeſaid, carefully to collect and gather from Seate to Seate, the almes and charitable beneuolence of all Our louing Subiects aſwel Strangers as others, and ſuch as are abſent from Church to repaire to their houſes for their beneuolence. And what ſhall be by you ſo gathered to be by the Miniſter and your ſelues, firſt ſet downe in words at length and not in Figures in a white paper booke, which ſhall be tendered vnto you by the ſaid Religious <hi>Phi<g ref="char:EOLhyphen"/>lotheos</hi> or his Deputie or Deputies, the Bearer or Bearers hereof, being ſubſcribed with the hand of the ſaid Reuerend Father in God the Lord Biſhop of London, and afterwards to endorſe the ſame vpon the back-ſide of theſe Our Letters Patents, or the Copie or Briefe thereof, and the ſumme and ſummes of money ſo gathered and endorſed, to deliuer to the ſaid Religious <hi>Philotheos</hi> or his De<g ref="char:EOLhyphen"/>putie or Deputies, the Bearer or Bearers of theſe our Letters Pattents, and to no other Perſon when as thereunto you ſhall be requi<g ref="char:EOLhyphen"/>red: Any Statute, Law, Ordinance, or Prouiſion heretofore made to the contrarie in any wiſe notwithſtanding.</p>
+            <p>In witneſſe whereof Wee haue cauſed theſe Our Letters to bee made Patents for the ſpace of one whole yeare next after the date hereof to endure.</p>
+            <closer>
+               <dateline>Witneſſe Our Selfe at Weſtminſter <date>the thirteenth day of October, in the nineteenth yeare of Our raigne of Eng<g ref="char:EOLhyphen"/>land, France, and Ireland, and of Scotland the fiue and fiftieth.</date>
+               </dateline>
+               <signed>STEWARD.</signed>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
